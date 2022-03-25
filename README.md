@@ -1,2 +1,2 @@
-# WiWo transformer.
- This repo is the implementation of WiWo transformer.you need to put the data in the 'data' folder and run 'run_UEA.py'
+#DA-Net
+ https://drive.google.com/open?id=11s_alDx1lG1a_kcLGMmGy6dU3xonP1wq&authuser=chenrj3336%40gmail.com&usp=drive_fs
